@@ -3,10 +3,10 @@
 Bu proje, Nesne Yönelimli Programlama (OOP) ilkeleri kullanılarak geliştirilmiş bir Kütüphane Yönetim Sistemi (OKYS) uygulamasıdır.
 
 ## Proje Yapısı
-- **`src/`**: Projenin Java kaynak kodlarını barındırır[cite: 2].
-- **`doc/`**: UML sınıf ve kullanım senaryosu diyagramlarını barındırır[cite: 2].
+- **`src/`**: Projenin Java kaynak kodlarını barındırır
+- **`doc/`**: UML sınıf ve kullanım senaryosu diyagramlarını barındırır.
 
 ## Kullanılan Teknolojiler
-- Dil: Java[cite: 2]
-- Ortam: Visual Studio Code, macOS[cite: 2]
-- Versiyon Kontrol: Git / GitHub[cite: 2]
+- Dil: Java
+- Ortam: Visual Studio Code, macOS
+- Versiyon Kontrol: Git / GitHub
